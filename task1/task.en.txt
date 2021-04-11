@@ -1,7 +1,3 @@
-My solutions to Eudyptula challenges.
-
-Tasks:
-
 This is Task 01 of the Eudyptula Challenge
 ------------------------------------------
 
