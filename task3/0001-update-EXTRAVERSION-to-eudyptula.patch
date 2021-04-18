@@ -1,0 +1,29 @@
+From bb915aeb35a6c6bfafb379f83c0ec6f623d245e2 Mon Sep 17 00:00:00 2001
+From: Hyeonggon Yoo <42.hyeyoo@gmail.com>
+Date: Sun, 18 Apr 2021 12:17:31 +0900
+Subject: [PATCH] update EXTRAVERSION to -eudyptula
+
+this work is done to complete task3 of eudyptula-challenge:
+change EXTRAVERSION to -eudyptula
+
+Signed-off-by: Hyeonggon Yoo <42.hyeyoo@gmail.com>
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 4730cf156f6b..d017ae47d378 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 5
+ PATCHLEVEL = 12
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc7
++EXTRAVERSION = -eudyptula
+ NAME = Frozen Wasteland
+ 
+ # *DOCUMENTATION*
+-- 
+2.25.1
+
