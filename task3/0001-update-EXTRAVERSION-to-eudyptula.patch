@@ -6,6 +6,10 @@ Subject: [PATCH] update EXTRAVERSION to -eudyptula
 this work is done to complete task3 of eudyptula-challenge:
 change EXTRAVERSION to -eudyptula
 
+proof:
+# uname -r
+5.12.0-eudyptula+
+
 Signed-off-by: Hyeonggon Yoo <42.hyeyoo@gmail.com>
 ---
  Makefile | 2 +-
